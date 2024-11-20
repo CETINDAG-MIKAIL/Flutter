@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:timber/screens/welcome.dart';
-import 'package:timber/style/colors.dart';
+import 'screens/welcome.dart';
+import 'styles/colors.dart';
 
 void main() {
   runApp(const MyApp());

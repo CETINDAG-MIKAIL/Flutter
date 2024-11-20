@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:timber/screens/home.dart';
-import 'package:timber/style/colors.dart';
+import 'home.dart';
+import '../styles/colors.dart';
 
 import '../widget/bottom_navigation_bar.dart';
 
