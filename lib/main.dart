@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import './screens/welcome.dart';
-import './style/colors.dart';
+import './widgets/home.dart';
+import './styles/colors.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: kMainColor),
         useMaterial3: true,
       ),
-      home: const Welcome(),
+      home: const Home(),
     );
   }
 }
