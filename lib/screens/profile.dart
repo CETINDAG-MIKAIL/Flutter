@@ -7,7 +7,7 @@ class Profile extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        "profile Screen",
+        "Profile Screen",
         style: TextStyle(fontSize: 24),
       ),
     );

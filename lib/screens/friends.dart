@@ -7,7 +7,7 @@ class Friends extends StatelessWidget {
   Widget build(BuildContext context) {
     return Center(
       child: Text(
-        "Friends Screen",
+        "Comming soon...",
         style: TextStyle(fontSize: 24),
       ),
     );
